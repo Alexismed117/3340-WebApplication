@@ -1,4 +1,4 @@
-# 3340-WebbApplication
+# 3340-WebApplication
 
 Team Members:
 
